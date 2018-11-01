@@ -8,4 +8,4 @@
 import sqlite3 
  
 # connect withe the myTable database 
-connection = sqlite3.connect("sample.db") 
+connection = sqlite3.connect("sampleTable.db") 
