@@ -1,7 +1,7 @@
-##Basics SQLITE
-This respository show  bascis manipulation of the db SQLITE in python 
+#Basics SQLITE <br/>
+This respository show  bascis manipulation of the db SQLITE in python <br/>
 
-##Requerment: 
+#Requerment: <br/>
 sqlite3 <br/>
 python3.x
 
